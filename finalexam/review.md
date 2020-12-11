@@ -4,6 +4,9 @@
 
 # 구축 환경
 
+# 실행 페이지
+http://dbpt08.dothome.co.kr/index.php
+
 
 # 페이지 소개
 
